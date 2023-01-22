@@ -1,0 +1,12 @@
+{
+  "name": "ponch",
+  "version": "0.0.1",
+  "description": "static and runtime type safety for typescript errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Ly",
+  "license": "MIT"
+}
