@@ -2,7 +2,13 @@
   "name": "ponch",
   "version": "0.0.1",
   "description": "static and runtime type safety for typescript errors",
-  "main": "index.js",
+  "main": "build/index.js",
+  "types":"build/index.d.ts",
+  "files": ["build"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branberry/ponch.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
